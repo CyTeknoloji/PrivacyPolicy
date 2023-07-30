@@ -1,4 +1,4 @@
-**PRIVACY POLICY**
+# PRIVACY POLICY
 
 As Cy Tech, we respect and value your privacy.
 
