@@ -1,80 +1,85 @@
 # PRIVACY POLICY
 
-As Cy Tech, we respect and value your privacy.
+**Game** : Funny Kids Drawing
+**Develope**r: CyTech
+**Contact Information of Data Owner:**
+cy.technology@gmail.com
 
-What third parties collect through our apps
+**About this Privacy Policy**
 
-We receive some information automatically when you use our mobile apps.
-This includes data about your device, software, operating system (OS),
-the language you set for your Device, advertising IDs for ad tracking
-(Ad IDs), and your IP address.
+This privacy policy applies to data obtained from you when you use our Funny Kids Drawing mobile applications.
+Our Privacy Policy explains what personal and non-personal information we collect from you, how we obtain it, how we secure it, how we share it, how you can access and modify it, and how you can restrict how we share it. The Privacy Policy also explains some of your legal rights regarding your personal data.
 
-We do not collect personally identifiable information about you or your
-children through our apps. In other words, we do not collect information
-such as your name, phone number, address or e-mail address.
+**Important Terms**
 
-When you make in-app purchases on our apps, we do not collect or have
-access to your name and billing information. This information is
-collected and stored by your platform (Android Google Play) or platform
-payment processor.
+- "NON-PERSONAL DATA" is information that is not personally identifiable in any way.
+- "PERSONAL DATA" means any information relating to an identified or identifiable natural person ("data owner"); An identifiable natural person is a person who can be identified directly or indirectly by reference to an identifier such as a name, identification number, location data, an online identifier, or one or more factors specific to physical, physiological, genetic, mental characteristics. , the economic, cultural or social identity of the natural person in question. PD is in many ways the same as Personally Identifiable Information (PII). However, the scope of PD is broader and covers more data.
+- "GDPR" is the EU General Data Protection Regulation (2016/679).
+- "COPPA" is the US Children's Online Privacy Protection Rule.
+- "CCPA" is the California Consumer Privacy Act of 2018.
+- 
+**What information is collected and how do we intend to use it?**
+  
+We may collect personal data from you when you use Funny Kids Drawing. For the sake of public accountability, we explain in detail what personal information we collect and access, why we use it, and the legal basis on which we handle your personal data.
+When you use Funny Kids Drawing, we use such data for the following purposes:
+- To confirm your age;
+- To save your game progress;
+- To respond to deck emails.
 
-A few of our Apps may use Google Analytics (third party scripts) that
-collect the following information and may store such information (as
-well) as a cookie on the device you use to access our Apps:
+**Analytical data**
 
-Google Analytics:
+When you download Funny Kids Drawing from the Google Play Store, we use Firebase (https://firebase.google.com), a third-party analytics service provided by Google LLC, that collects the following technical personal and non-personal data from you. :
+- Number of sessions;
+- Session duration;
+- Eclipse;
+- Events;
+- Upload resource;
+- IDFA.
 
-Demographics (browser language, country, city)
 
-Mobile (operating system, screen resolution, service provider)
+**We use such data for the following purposes:**
 
-System information (operating system, browser, service provider)
+- analyze the technical aspects of your use of our games;
+- Optimizing our applications according to your needs;
+- prevention of fraud and abuse;
+- Provide security;
 
-Site behavior (pages users visit, duration of visit)
+**Data Types Used**
 
-For more information about our partners\' practices, please visit this
-link: https://www.google.com/policies/privacy/partners/
+1- Crash logs: The collected data is processed for a short time. It is used to improve application analysis and performance. These data are collected compulsorily.
+2- Other data on application performance: The collected data is processed for a short time. It is used to improve application analysis and performance. These data are collected compulsorily.
+3- Files and Documents: The collected data is processed for a short time. It is used for the functionality of the application. It is used to save the game operation and then continue from where the user left off. These data are collected compulsorily.
+4- Application activity: The collected data is processed for a short time. Used for application functionality and analysis. These data are collected compulsorily.
 
-How do we use this information collected in our mobile applications?
+**Sale of Personal Data**
 
-We collect this information to improve the performance and reliability
-of our apps and to better understand what users prefer and help improve
-our app. We do not associate any of this information with individuals or
-any other information we may obtain. We do not sell, share or otherwise
-give this information to other people or companies. We do not rent or
-sell your email address.
+We do not sell your personal data to third parties and have no such plans in the future.
 
-Our mobile apps comply with the Children\'s Online Privacy Protection
-Act (COPPA). In the event that a user identifies as a child under the
-age of 13 through a support request or feedback, we will not collect,
-store or use such user\'s personal information and will securely delete
-it.
+**Use of Your Personal Information**
 
-We take care to filter out categories of ads that are sensitive and
-inappropriate for children. However, an advertiser may seldom
-misclassify your ads, which is out of our reach.
+Funny Kids Drawing does not collect personal user data
 
-**COOKIE**
+**Ads**
 
-When you visit our website, we may send cookies to your computer that
-uniquely identify your browser. We use cookies to improve the quality of
-our service by storing user preferences and tracking usage information.
-Most browsers allow you to disable cookies or set your browser to alert
-you when cookies are being sent to your computer.
+Funny Kids Drawing shows ads. Google Admob service is used for the advertisement service shown. The maximum Ad content rating is set to G (General Audiences). All areas and advertising content that may be objectionable for children are blocked through Google Admob.
 
-**CHANGES TO THIS PRIVACY POLICY**
+**Sharing Information with Affiliates and Other Third Parties**
 
-Cy Tech has the authority to update this privacy policy at any time.
-When we do, we will revise the update date at the bottom of this page.
-We encourage users to check this page frequently to see if there are any
-changes so that they are aware of how we help protect the personal
-information we collect. You acknowledge and agree that it is your
-responsibility to periodically review this privacy policy and to be
-aware of any changes.
+We do not sell or rent your personal information to third parties for marketing purposes. We may share your personal information with third-party service providers (our data processors) working on our behalf. These third-party service providers include:
+Our analytics service provider Google Firebase (https://firebase.google.com);
 
-**CONTACT US**
+**Storage and Disposal of Your Personal Data**
 
-If you have any questions about this Privacy Policy, the practices of
-this site, or your relationship with our Apps, please contact us at:
+We only use information about you (including your personal data) momentarily for analytics and application performance. We do not permanently store your data on a server.
 
-**cy.teknoloji@gmail.com**
+**Protecting Children's Privacy**
+
+We do not collect personal data from children under the age of consent or who are unable to provide valid consent under COPPA or GDPR.
+
+**Changes to the Privacy Policy**
+
+We reserve the right to change our Privacy Policy at any time. We are always aware of what personal data we collect, use and disclose. We will provide updates to the Website and Apps so that you are always up to date.
+
+**Contact Information of Data Owner:**
+cy.technology@gmail.com
+
