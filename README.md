@@ -1,5 +1,5 @@
 
-**PRIVACY POLICY**
+#PRIVACY POLICY
 
 
 
@@ -35,7 +35,7 @@ Our mobile apps comply with the Children's Online Privacy Protection Act (COPPA)
 
 We take care to filter out categories of ads that are sensitive and inappropriate for children. However, an advertiser may seldom misclassify your ads, which is out of our reach.
 
-**COOKIE**
+#COOKIE
 
 When you visit our website, we may send cookies to your computer that uniquely identify your browser. We use cookies to improve the quality of our service by storing user preferences and tracking usage information. Most browsers allow you to disable cookies or set your browser to alert you when cookies are being sent to your computer.
 
