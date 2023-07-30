@@ -17,14 +17,14 @@ Our Privacy Policy explains what personal and non-personal information we collec
 - "GDPR" is the EU General Data Protection Regulation (2016/679).
 - "COPPA" is the US Children's Online Privacy Protection Rule.
 - "CCPA" is the California Consumer Privacy Act of 2018.
-- 
+  
 **What information is collected and how do we intend to use it?**
   
-We may collect personal data from you when you use Funny Kids Drawing. For the sake of public accountability, we explain in detail what personal information we collect and access, why we use it, and the legal basis on which we handle your personal data.
+We may collect some data from you when you use Funny Kids Drawing. For the sake of public accountability, we explain in detail what information we collect and access, why we use it, and the legal basis for our handling of your data.
 When you use Funny Kids Drawing, we use such data for the following purposes:
-- To confirm your age;
 - To save your game progress;
-- To respond to deck emails.
+- For application functionality;
+- For application analytics;
 
 **Analytical data**
 
