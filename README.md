@@ -54,7 +54,7 @@ We take care to filter out categories of ads that are sensitive and
 inappropriate for children. However, an advertiser may seldom
 misclassify your ads, which is out of our reach.
 
-# COOKIE
+**COOKIE**
 
 When you visit our website, we may send cookies to your computer that
 uniquely identify your browser. We use cookies to improve the quality of
@@ -62,7 +62,7 @@ our service by storing user preferences and tracking usage information.
 Most browsers allow you to disable cookies or set your browser to alert
 you when cookies are being sent to your computer.
 
-# CHANGES TO THIS PRIVACY POLICY
+**CHANGES TO THIS PRIVACY POLICY**
 
 Cy Tech has the authority to update this privacy policy at any time.
 When we do, we will revise the update date at the bottom of this page.
@@ -72,9 +72,9 @@ information we collect. You acknowledge and agree that it is your
 responsibility to periodically review this privacy policy and to be
 aware of any changes.
 
-# CONTACT US
+**CONTACT US**
 
 If you have any questions about this Privacy Policy, the practices of
 this site, or your relationship with our Apps, please contact us at:
 
-# cy.teknoloji@gmail.com
+**cy.teknoloji@gmail.com**
