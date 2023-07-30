@@ -1,4 +1,7 @@
-# PrivacyPolicy
+
+**PRIVACY POLICY**
+
+
 
 As Cy Tech, we respect and value your privacy.
 
@@ -36,9 +39,15 @@ We take care to filter out categories of ads that are sensitive and inappropriat
 
 When you visit our website, we may send cookies to your computer that uniquely identify your browser. We use cookies to improve the quality of our service by storing user preferences and tracking usage information. Most browsers allow you to disable cookies or set your browser to alert you when cookies are being sent to your computer.
 
+
+
+
+
 **CHANGES TO THIS PRIVACY POLICY**
 
 Cy Tech has the authority to update this privacy policy at any time. When we do, we will revise the update date at the bottom of this page. We encourage users to check this page frequently to see if there are any changes so that they are aware of how we help protect the personal information we collect. You acknowledge and agree that it is your responsibility to periodically review this privacy policy and to be aware of any changes.
+
+
 
 **CONTACT US**
 
